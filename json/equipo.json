@@ -1,0 +1,12 @@
+[
+    { "id": 1, "foto": "../img/equipo/team1.png", "nombres": "Sele Cortez", "cargo": "Chef Principal", "estudios": "D'Galia", "contacto": "987 654321", "pasatiempo": "Tenis" },
+    { "id": 2, "foto": "../img/equipo/team2.png", "nombres": "Estefany Sanchez", "cargo": "Ayudante", "estudios": "Cordon Blue", "contacto": "998 321854", "pasatiempo": "Leer Comics" },
+    { "id": 3, "foto": "../img/equipo/team3.png", "nombres": "Franco Ordoñez", "cargo": "Designer Chef", "estudios": "Le Gourmet", "contacto": "975654258", "pasatiempo": "Ir de compras" },
+    { "id": 4, "foto": "../img/equipo/team1.png", "nombres": "Camila Gomero", "cargo": "Churre", "estudios": "Gaston", "contacto": "989 321258", "pasatiempo": "Viajar" },
+    { "id": 5, "foto": "../img/equipo/team2.png", "nombres": "Miguel Obregón", "cargo": "Creativo", "estudios": "D'Galia", "contacto": "998 564321", "pasatiempo": "La guitarra" },
+    { "id": 6, "foto": "../img/equipo/team3.png", "nombres": "Carla Alarcón", "cargo": "Paquetería", "estudios": "Le Gourmet", "contacto": "984 321202", "pasatiempo": "Netflix" }
+]
+
+
+
+

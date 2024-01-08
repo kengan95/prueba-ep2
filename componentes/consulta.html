@@ -1,0 +1,68 @@
+<div class="bottom-slider">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-2"></div>
+            <div class="col-md-8">
+                <h1 class="text-center fs-1">CONSULTA</h1>
+                <p class="text-center mt-3 mb-0">Lorem ipsum dolor sit amet consectetur adipisicing elit. <b>Veritatis</b> ab ipsa adipisci <b>perspiciatis</b> pariatur debitis, Lorem ipsum dolor sit amet consectetur adipisicing elit</p>
+            </div>
+            <div class="col-md-2"></div>
+        </div>
+
+    </div>
+</div>
+<section class="padded pb-5 pt-5">
+    <div class="container">
+        
+        <div class="row">
+            <div class="col-md-3">
+                <ul class="list-group list-group-item-action" id="lista-categorias">
+
+                </ul>
+            </div>
+            <div class="col-md-9">
+                <h3 id="categoria-nombre"></h3>
+                <p id="categoria-descripcion"></p>
+
+                <ul class="nav nav-tabs" id="myTab" role="tablist">
+                    <li class="nav-item" role="presentation">
+                      <button class="nav-link active" id="tabla-tab" data-bs-toggle="tab" data-bs-target="#tabla" type="button" role="tab" aria-controls="tabla" aria-selected="true">Tabla</button>
+                    </li>
+                    <li class="nav-item" role="presentation">
+                      <button class="nav-link" id="cuadricula-tab" data-bs-toggle="tab" data-bs-target="#cuadricula" type="button" role="tab" aria-controls="cuadricula" aria-selected="false">Cuadricula</button>
+                    </li>
+                  </ul>
+                  <div class="tab-content" id="myTabContent">
+                    <div class="tab-pane fade show active" id="tabla" role="tabpanel" aria-labelledby="tabla-tab">
+
+                      <table class="table table-hover">
+                        <thead class="table">
+                            <tr>
+                                <th>Cod</th>
+                                <th>Nombre</th>
+                                <th>Detalle</th>
+                                <th class="text-end">Precio</th>
+                            </tr>
+                        </thead>
+                        <tbody id="tbody-consulta">
+                        </tbody>
+                      </table>  
+
+                    </div>
+                    <div class="tab-pane fade" id="cuadricula" role="tabpanel" aria-labelledby="cuadricula-tab">
+
+                        <div class="row row-cols-1 row-cols-md-3 g-4" id="cards-consulta">
+
+                        </div>
+
+                    </div>
+                  </div>
+
+                
+            </div>
+        </div>
+    </div>
+</section>
+<script>
+    $.getScript("componentes/consulta.js");
+</script> 

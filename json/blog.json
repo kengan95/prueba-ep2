@@ -1,0 +1,38 @@
+[
+    {
+        "id":1,
+        "fecha":"30 dic. 2021",
+        "nombre":"Cake de Chocolate",
+        "detalle":"Pastel de taza de chocolate húmedo con deliciosa crema de mantequilla de chocolate.",
+        "foto":"../img/blog/chocolate.jpg"
+    },
+    {
+        "id":2,
+        "fecha":"29 dic. 2021",
+        "nombre":"Cake de Arco Iris",
+        "detalle":"Pastel de taza de arco iris húmedo con deliciosa crema de mantequilla de vainilla con chips arco iris.",
+        "foto":"../img/blog/arco-iris.jpg"
+    },
+    {
+        "id":3,
+        "fecha":"28 dic. 2021",
+        "nombre":"Cake de Fresa",
+        "detalle":"Pastel de taza de fresa húmedo con deliciosa crema de mantequilla de vainilla con fresa.",
+        "foto":"../img/blog/fresa.jpg"
+    },
+    {
+        "id":4,
+        "fecha":"27 dic. 2021",
+        "nombre":"Cake de Menta",
+        "detalle":"Pastel de taza de menta húmedo con deliciosa crema de mantequilla de menta.",
+        "foto":"../img/blog/menta.jpg"
+    },
+    {
+        "id":5,
+        "fecha":"26 dic. 2021",
+        "nombre":"Cake de Frambuesa",
+        "detalle":"Pastel de taza de frambuesas húmedo con deliciosa crema de mantequilla de vainilla.",
+        "foto":"../img/blog/frambuesa.jpg"
+    }
+    
+]
